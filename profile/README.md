@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4567217a-0987-4d69-a822-8f1164ef5fec)# Team-Potential 
+# Team-Potential 
 
 **Team-Potential**은 가능성을 현실로 만드는 열정적인 인디 게임 개발팀입니다.   
 
