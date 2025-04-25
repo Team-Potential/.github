@@ -16,3 +16,6 @@
 
 ### 🌐 Server Developer
 - 전민혁 [hyuli0520](https://github.com/hyuli0520)
+
+### 📖 Game Planner
+- 전민혁 [hyuli0520](https://github.com/hyuli0520)
